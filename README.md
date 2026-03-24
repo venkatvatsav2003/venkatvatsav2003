@@ -4,10 +4,13 @@ Welcome to my GitHub profile. I'm a passionate developer focused on building sec
 
 ### 🛠️ What I do
 - **DevSecOps**: Integrating security seamlessly into CI/CD pipelines (SAST, DAST, SCA).
-- **Cybersecurity**: Developing vulnerability scanners, password analyzers, and encryption tools.
+- **Cybersecurity**: Developing AI-powered phishing detection, Zero-Trust identity proxies, EDR behavioral agents, vulnerability scanners, and cryptographic suites.
 - **Development**: Building robust applications and tools using Python, modern APIs, and modular architectures.
 
 ### 🚀 Featured Projects
+- **[PhishGuard-AI](https://github.com/venkatvatsav2003/PhishGuard-AI)**: An advanced, machine-learning powered Phishing Detection Engine using NLP and Random Forest classifiers.
+- **[ZeroTrust-Proxy](https://github.com/venkatvatsav2003/ZeroTrust-Proxy)**: A high-performance Go-based Zero-Trust Identity Aware Proxy (IAP) enforcing strict authentication and RBAC.
+- **[RansomWatch-EDR](https://github.com/venkatvatsav2003/RansomWatch-EDR)**: An EDR mock agent that detects ransomware behavior via real-time filesystem monitoring and Shannon entropy analysis.
 - **[Centra](https://github.com/venkatvatsav2003/centra)**: A complete, end-to-end production DevSecOps pipeline demonstrating automated security scanning and containerization best practices.
 - **[A3VS](https://github.com/venkatvatsav2003/A3VS)**: An advanced vulnerability scanner with AI-driven reporting and multi-threaded processing.
 - **[Password-analyzer](https://github.com/venkatvatsav2003/Password-analyzer)**: A secure tool for evaluating password strength using entropy calculations and k-Anonymity checks via HIBP.
